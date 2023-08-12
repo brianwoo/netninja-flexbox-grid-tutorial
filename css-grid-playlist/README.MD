@@ -1,3 +1,6 @@
+# NetNinja's CSS Grid Tutorial
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
+
 # Grid
 
 - Set the parent container: display: grid
