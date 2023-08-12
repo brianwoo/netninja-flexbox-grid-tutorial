@@ -44,4 +44,4 @@
   - grid-column: span 3;   ◄ grid column starts at 1, ends at 4 (span the width of 3 elements)
 
 ## Nested Grids
-- Treat one of the grid element as a parent
+- Treat a grid elements as a parent and have other grid elements within it
