@@ -101,3 +101,8 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
   }
 ```
 
+## Make Grid Wrap (responsive) without using MediaQuery
+- Use grid-template-columns and auto-fit / auto-fill
+  - repeat(auto-fill, minmax(200px, 1fr))
+  - repeat(auto-fit, minmax(200px, 1fr))
+
